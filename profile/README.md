@@ -1,6 +1,10 @@
-## Hi there 👋
-Mentor :   Eka Nur Solicha (mentoring done on 01 June 2023)
-           Adrianus Yoza Aprilio (mentoring done on 05 Juni 2023)
+# Product Capstone - AksiHijau
+
+## C23-PS329
+
+**Mentor :**   
+Eka Nur Solicha (mentoring done on 01 June 2023)<br>
+Adrianus Yoza Aprilio (mentoring done on 05 Juni 2023)
 Members : 
 [active] Irfan Divi Zianka (M160DSX0257) - Machine Learning - Universitas Darma Persada
 [active] Juan Angela Alma (C287DSX0741) - Cloud Computing - Universitas Negeri Surabaya
