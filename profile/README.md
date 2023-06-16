@@ -23,7 +23,7 @@ Aksi Hijau invites each community to be active in creating campaigns and conduct
 
 **Project Resources** <br>
 [Project Google Drive](https://drive.google.com/drive/folders/1_cgaQPcp34YJ5Yk3loKtIDe-ALkOP1Hk?usp=sharing)<br>
-[Project Trello](https://trello.com/w/aksihijau)<br>
+[Project Trello]([https://trello.com/w/aksihijau](https://trello.com/invite/b/SSBd9nwj/ATTI65835540b8351a471ab317b562a1c1f61D81D5AE/product-building))<br>
 <!--
 
 **Here are some ideas to get you started:**
