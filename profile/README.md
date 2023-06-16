@@ -3,8 +3,8 @@
 ## **C23-PS329**
 
 **Mentor :**   
-Eka Nur Solicha (mentoring done on 01 June 2023)<br>
-Adrianus Yoza Aprilio (mentoring done on 05 June 2023)<br>
+👩‍🏫 Eka Nur Solicha (mentoring done on 01 June 2023)<br>
+👨‍🏫 Adrianus Yoza Aprilio (mentoring done on 05 June 2023)<br>
 <br>**Members :**<br> 
 [active] Irfan Divi Zianka (M160DSX0257) - Machine Learning - Universitas Darma Persada<br>
 [active] Juan Angela Alma (C287DSX0741) - Cloud Computing - Universitas Negeri Surabaya<br>
@@ -14,12 +14,12 @@ Adrianus Yoza Aprilio (mentoring done on 05 June 2023)<br>
 [active] Yusril Isra Mahendra (C287DSX0883) - Cloud Computing - Universitas Negeri Surabaya<br>
 
 
-<br>**Project Description**<br>
+<br>**Project Description 📋**<br>
 Aksi Hijau is a crowdfunding application with a focus on reducing the potential for climate crisis by protecting and caring for the environment. The focus of our application is to invite everyone, both individuals and communities who care about the environment, to actively participate in fighting the climate crisis which has an impact on nature. 
 
 Aksi Hijau invites each community to be active in creating campaigns and conducting outreach together with donors in tree planting actions in the campaign area.
 
-### **Our repositories is a merger from 3 different repositories created by each learning path**
+### **Our repositories is a merger from 3 different repositories created by each learning path 📚🔄**
 
 **Project Resources** <br>
 [Project Google Drive](https://drive.google.com/drive/folders/1_cgaQPcp34YJ5Yk3loKtIDe-ALkOP1Hk?usp=sharing)<br>
