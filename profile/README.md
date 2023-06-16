@@ -5,13 +5,13 @@
 **Mentor :**   
 Eka Nur Solicha (mentoring done on 01 June 2023)<br>
 Adrianus Yoza Aprilio (mentoring done on 05 Juni 2023)
-Members : 
-[active] Irfan Divi Zianka (M160DSX0257) - Machine Learning - Universitas Darma Persada
-[active] Juan Angela Alma (C287DSX0741) - Cloud Computing - Universitas Negeri Surabaya
-[active] Rayyan Nur Fauzan (A287DKX3849) - Mobile Development - Universitas Negeri Surabaya
-[active] Reynhard Powiwi (A360DKX4118) - Mobile Development - Universitas Telkom
-[active] Vina Maulida Junia (M282DSY0240) - Machine Learning - Universitas Negeri Malang
-[active] Yusril Isra Mahendra (C287DSX0883) - Cloud Computing - Universitas Negeri Surabaya
+**Members :**<br> 
+[active] Irfan Divi Zianka (M160DSX0257) - Machine Learning - Universitas Darma Persada<br>
+[active] Juan Angela Alma (C287DSX0741) - Cloud Computing - Universitas Negeri Surabaya<br>
+[active] Rayyan Nur Fauzan (A287DKX3849) - Mobile Development - Universitas Negeri Surabaya<br>
+[active] Reynhard Powiwi (A360DKX4118) - Mobile Development - Universitas Telkom<br>
+[active] Vina Maulida Junia (M282DSY0240) - Machine Learning - Universitas Negeri Malang<br>
+[active] Yusril Isra Mahendra (C287DSX0883) - Cloud Computing - Universitas Negeri Surabaya<br>
 
 
 Project Description
