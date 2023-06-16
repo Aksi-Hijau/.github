@@ -4,7 +4,7 @@
 
 **Mentor :**   
 Eka Nur Solicha (mentoring done on 01 June 2023)<br>
-Adrianus Yoza Aprilio (mentoring done on 05 Juni 2023)<br>
+Adrianus Yoza Aprilio (mentoring done on 05 June 2023)<br>
 <br>**Members :**<br> 
 [active] Irfan Divi Zianka (M160DSX0257) - Machine Learning - Universitas Darma Persada<br>
 [active] Juan Angela Alma (C287DSX0741) - Cloud Computing - Universitas Negeri Surabaya<br>
@@ -19,7 +19,11 @@ Aksi Hijau is a crowdfunding application with a focus on reducing the potential 
 
 Aksi Hijau invites each community to be active in creating campaigns and conducting outreach together with donors in tree planting actions in the campaign area.
 
-**Our repositories is a merger from 3 different repositories created by each learning path**
+### **Our repositories is a merger from 3 different repositories created by each learning path**
+
+**Project Resources** <br>
+[Project Google Drive](https://drive.google.com/drive/folders/1_cgaQPcp34YJ5Yk3loKtIDe-ALkOP1Hk?usp=sharing)<br>
+[Project Trello](https://trello.com/w/aksihijau)<br>
 <!--
 
 **Here are some ideas to get you started:**
